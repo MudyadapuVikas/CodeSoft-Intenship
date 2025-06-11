@@ -117,15 +117,15 @@ footer {
         </nav>
         <section class="home" id="home">
             <h1>Welcome to My Landing Page</h1>
-            <p>Iam S.Srinithya.</p>
+            <p>Iam M.vikas</p>
             <a href="#about" class="cta-btn">Learn More</a>
         </section>
     </header>
 
     <section class="about" id="about" >
         <h2>About</h2>
-        <p>Iam currently pursuing Btech-3rd year in Mallareddy engineering college for women</p>
-        <p>Outside of academics, I enjoy in coding, Actively participated in national social service(NSS), Recieved many course completion certifications in codetantra,cisco,Infosys..etc</p>
+        <p>Iam currently pursuing Btech-3rd year in St peters engineering college</p>
+        <p>Outside of academics, I enjoy in coding,Recieved many course completion certifications in cisco,Infosys..etc</p>
     </section>
     <section class="services" id="services">
         <h2>Services</h2>
@@ -145,10 +145,10 @@ footer {
     <section class="contact" id="contact">
         <h2>Contact </h2>
         <p>Feel free to reach out for any inquiries.</p>
-        <a href="srinithyasridhar@gmail.com" class="cta-btn">Email Us</a>
+        <a href="mudaydapuvikas@gmail.com" class="cta-btn">Email Us</a>
     </section>
     <footer>
-        <p>&copy;srinithyasridhar@gmail.com</p>
+        <p>&copy;mudyadapuvikas@gmail.com</p>
     </footer>
 </body>
 </html>
